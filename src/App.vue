@@ -39,7 +39,6 @@ export default {
     };
     
     Object.assign(swiperEl, swiperParams);
-    console.log(swiperEl);
 
     swiperEl.initialize();
   },
